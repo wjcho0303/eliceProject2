@@ -1,6 +1,6 @@
 <h1> 🎀 엘리스 2차 팀 프로젝트 🖥</h1> 
 - 본 프로젝트는 1차 개인 프로젝트와는 달리 팀 프로젝트로 진행되었습니다. <br/>
-- 팀 구성원은 모두 백엔드 개발자이며, 페이지는 Thymeleaf를 사용한 SSR(Servier-side Rendering) 방식으로 구현하였습니다. <br/>
+- 팀 구성원은 모두 백엔드 개발자이며, 페이지는 Thymeleaf를 사용한 SSR(Server-side Rendering) 방식으로 구현하였습니다. <br/>
 <br/>
 <br/>
 
